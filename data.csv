@@ -1,0 +1,101 @@
+Airline,From,To,Departure Time,Arrival Time
+China Eastern Airlines,Harbin,Los Angeles International,2025-07-10T02:00:00+00:00,2025-07-09T21:50:00+00:00
+Singapore Airlines,Chongqing Jiangbei International,Singapore Changi,2025-07-10T02:35:00+00:00,2025-07-10T07:30:00+00:00
+Cathay Pacific,Chongqing Jiangbei International,Hong Kong International,2025-07-10T02:35:00+00:00,2025-07-10T04:40:00+00:00
+Qantas,Chongqing Jiangbei International,Shanghai Pudong International,2025-07-10T02:35:00+00:00,2025-07-10T05:20:00+00:00
+Hainan Airlines,Chongqing Jiangbei International,Barajas,2025-07-10T02:25:00+00:00,2025-07-10T09:00:00+00:00
+Longhao Airlines,Chongqing Jiangbei International,Guangzhou Baiyun International,2025-07-10T02:10:00+00:00,2025-07-10T04:40:00+00:00
+China Postal Airlines,Chongqing Jiangbei International,Changsha,2025-07-10T02:10:00+00:00,2025-07-10T03:35:00+00:00
+EVA Air,Chongqing Jiangbei International,Taiwan Taoyuan International (Chiang Kai Shek International),2025-07-10T02:10:00+00:00,2025-07-10T05:15:00+00:00
+Tianjin Air Cargo,Chongqing Jiangbei International,Guangzhou Baiyun International,2025-07-10T02:05:00+00:00,2025-07-10T04:10:00+00:00
+SF Airlines,Chongqing Jiangbei International,Guangzhou Baiyun International,2025-07-10T02:00:00+00:00,2025-07-10T03:40:00+00:00
+Asiana Airlines,Chongqing Jiangbei International,Seoul (Incheon),2025-07-10T02:00:00+00:00,2025-07-10T06:25:00+00:00
+Qatar Airways,Chongqing Jiangbei International,Doha International,2025-07-10T01:50:00+00:00,2025-07-10T05:05:00+00:00
+China Postal Airlines,Chongqing Jiangbei International,Nanjing Lukou International Airport,2025-07-10T00:20:00+00:00,2025-07-10T02:30:00+00:00
+Air China LTD,Shanghai Pudong International,El Prat De Llobregat,2025-07-10T00:40:00+00:00,2025-07-10T08:00:00+00:00
+Singapore Airlines,Shanghai Pudong International,Singapore Changi,2025-07-10T00:35:00+00:00,2025-07-10T05:55:00+00:00
+Qatar Airways,Shanghai Pudong International,Doha International,2025-07-10T00:35:00+00:00,2025-07-10T05:10:00+00:00
+EASTAR JET,Shanghai Pudong International,Seoul (Incheon),2025-07-10T00:30:00+00:00,2025-07-10T03:30:00+00:00
+China Eastern Airlines,Shanghai Pudong International,Marco Polo,2025-07-10T00:30:00+00:00,2025-07-10T07:40:00+00:00
+China Eastern Airlines,Shanghai Pudong International,Frankfurt International Airport,2025-07-10T00:25:00+00:00,2025-07-10T06:05:00+00:00
+China Southern Airlines,Shanghai Pudong International,Ted Stevens Anchorage International Airport,2025-07-10T00:25:00+00:00,2025-07-09T17:05:00+00:00
+Cargolux,Shanghai Pudong International,Findel,2025-07-10T00:25:00+00:00,2025-07-10T10:25:00+00:00
+China Eastern Airlines,Shanghai Pudong International,Sydney Kingsford Smith Airport,2025-07-10T00:20:00+00:00,2025-07-10T12:35:00+00:00
+Ethiopian Airlines,Shanghai Pudong International,Bole International,2025-07-10T00:20:00+00:00,2025-07-10T06:35:00+00:00
+empty,Fua'amotu International,Kaufana,2025-07-10T07:00:00+00:00,2025-07-10T07:15:00+00:00
+Fiji Airways,Fua'amotu International,Nadi International,2025-07-10T04:55:00+00:00,2025-07-10T06:15:00+00:00
+VietJet Air,Noibai International,Fukuoka,2025-07-10T02:05:00+00:00,2025-07-10T07:55:00+00:00
+Juneyao Airlines,Noibai International,Shanghai Pudong International,2025-07-10T02:00:00+00:00,2025-07-10T06:15:00+00:00
+Philippine Airlines,Noibai International,Ninoy Aquino International,2025-07-10T01:45:00+00:00,2025-07-10T06:25:00+00:00
+VietJet Air,Noibai International,Seoul (Incheon),2025-07-10T01:40:00+00:00,2025-07-10T07:55:00+00:00
+VietJet Air,Noibai International,Chu-Bu Centrair International (Central Japan International),2025-07-10T01:40:00+00:00,2025-07-10T08:00:00+00:00
+Asiana Airlines,Noibai International,Guangzhou Baiyun International,2025-07-10T01:35:00+00:00,2025-07-10T04:30:00+00:00
+Asiana Airlines,Noibai International,Guangzhou Baiyun International,2025-07-10T01:35:00+00:00,2025-07-10T04:30:00+00:00
+Vietnam Airlines,Noibai International,Fukuoka,2025-07-10T01:35:00+00:00,2025-07-10T07:35:00+00:00
+Emirates,Noibai International,Dubai,2025-07-10T01:30:00+00:00,2025-07-10T05:05:00+00:00
+Vietnam Airlines,Noibai International,Gimhae,2025-07-10T01:20:00+00:00,2025-07-10T07:05:00+00:00
+VietJet Air,Noibai International,Kansai International,2025-07-10T01:20:00+00:00,2025-07-10T07:50:00+00:00
+Longhao Airlines,Noibai International,Guangzhou Baiyun International,2025-07-10T01:10:00+00:00,2025-07-10T04:20:00+00:00
+VietJet Air,Noibai International,Gimhae,2025-07-10T00:55:00+00:00,2025-07-10T07:00:00+00:00
+Jeju Air,Noibai International,Seoul (Incheon),2025-07-10T00:45:00+00:00,2025-07-10T07:30:00+00:00
+SF Airlines,Beijing Daxing International Airport,Shuangliu,2025-07-10T03:05:00+00:00,2025-07-10T05:55:00+00:00
+JDL Airlines,Beijing Daxing International Airport,Shenzhen,2025-07-10T02:40:00+00:00,2025-07-10T05:40:00+00:00
+Hong Kong Express,Beijing Daxing International Airport,Hong Kong International,2025-07-10T02:40:00+00:00,2025-07-10T06:10:00+00:00
+VietJet Air,Beijing Daxing International Airport,Noibai International,2025-07-10T02:15:00+00:00,2025-07-10T04:50:00+00:00
+Aeroflot,Beijing Daxing International Airport,Novyy,2025-07-10T02:15:00+00:00,2025-07-10T07:10:00+00:00
+AirAsia X,Beijing Daxing International Airport,Kuala Lumpur International Airport (klia),2025-07-10T02:15:00+00:00,2025-07-10T08:30:00+00:00
+Thai Vietjet Air,Beijing Daxing International Airport,Suvarnabhumi International,2025-07-10T02:15:00+00:00,2025-07-10T06:00:00+00:00
+China Postal Airlines,Beijing Daxing International Airport,Guangzhou Baiyun International,2025-07-10T02:10:00+00:00,2025-07-10T05:40:00+00:00
+JDL Airlines,Beijing Daxing International Airport,Shenzhen,2025-07-10T02:00:00+00:00,2025-07-10T05:15:00+00:00
+JDL Airlines,Beijing Daxing International Airport,Wuxi,2025-07-10T02:00:00+00:00,2025-07-10T03:50:00+00:00
+Qatar Airways,Beijing Daxing International Airport,Doha International,2025-07-10T01:45:00+00:00,2025-07-10T05:40:00+00:00
+VietJet Air,Beijing Daxing International Airport,Tan Son Nhat International,2025-07-10T01:05:00+00:00,2025-07-10T05:00:00+00:00
+China Southern Airlines,Beijing Daxing International Airport,Istanbul Airport,2025-07-10T00:30:00+00:00,2025-07-10T06:00:00+00:00
+AirAsia,Beijing Daxing International Airport,Kota-Kinabalu International Airport,2025-07-10T00:15:00+00:00,2025-07-10T05:45:00+00:00
+Hainan Airlines,Haneda Airport,Beijing Capital International,2025-07-10T03:00:00+00:00,2025-07-10T05:50:00+00:00
+Peach Aviation,Haneda Airport,Shanghai Pudong International,2025-07-10T02:40:00+00:00,2025-07-10T05:00:00+00:00
+Hong Kong Express,Haneda Airport,Hong Kong International,2025-07-10T02:30:00+00:00,2025-07-10T06:10:00+00:00
+Xiamen Airlines,Haneda Airport,Tianjin Binhai International,2025-07-10T02:30:00+00:00,2025-07-10T05:00:00+00:00
+Peach Aviation,Haneda Airport,Seoul (Incheon),2025-07-10T02:10:00+00:00,2025-07-10T04:40:00+00:00
+VietJet Air,Haneda Airport,Tan Son Nhat International,2025-07-10T02:00:00+00:00,2025-07-10T06:10:00+00:00
+Korean Air,Haneda Airport,Seoul (Incheon),2025-07-10T02:00:00+00:00,2025-07-10T04:35:00+00:00
+Japan Airlines,Haneda Airport,Ninoy Aquino International,2025-07-10T02:00:00+00:00,2025-07-10T05:35:00+00:00
+Philippine Airlines,Haneda Airport,Ninoy Aquino International,2025-07-10T01:55:00+00:00,2025-07-10T05:40:00+00:00
+Japan Airlines,Haneda Airport,Tan Son Nhat International,2025-07-10T01:50:00+00:00,2025-07-10T05:25:00+00:00
+United Airlines,Haneda Airport,Newark Liberty International,2025-07-10T01:30:00+00:00,2025-07-10T01:15:00+00:00
+Asiana Airlines,Haneda Airport,Seoul (Incheon),2025-07-10T01:30:00+00:00,2025-07-10T04:10:00+00:00
+ANA,Haneda Airport,Suvarnabhumi International,2025-07-10T01:30:00+00:00,2025-07-10T06:00:00+00:00
+Japan Airlines,Haneda Airport,Suvarnabhumi International,2025-07-10T01:30:00+00:00,2025-07-10T05:50:00+00:00
+Spring Airlines,Haneda Airport,Shanghai Pudong International,2025-07-10T01:05:00+00:00,2025-07-10T03:10:00+00:00
+Hong Kong Express,Haneda Airport,Hong Kong International,2025-07-10T01:00:00+00:00,2025-07-10T04:40:00+00:00
+ANA,Haneda Airport,Milano Malpensa,2025-07-10T00:55:00+00:00,2025-07-10T09:20:00+00:00
+ANA,Haneda Airport,Singapore Changi,2025-07-10T00:40:00+00:00,2025-07-10T06:40:00+00:00
+Air Canada,Haneda Airport,Singapore Changi,2025-07-10T00:40:00+00:00,2025-07-10T06:40:00+00:00
+United Airlines,Haneda Airport,Singapore Changi,2025-07-10T00:40:00+00:00,2025-07-10T06:40:00+00:00
+ANA,Haneda Airport,Arlanda,2025-07-10T00:30:00+00:00,2025-07-10T07:15:00+00:00
+Lufthansa,Haneda Airport,Arlanda,2025-07-10T00:30:00+00:00,2025-07-10T07:15:00+00:00
+ANA,Haneda Airport,Los Angeles International,2025-07-10T00:30:00+00:00,2025-07-09T19:10:00+00:00
+United Airlines,Haneda Airport,Los Angeles International,2025-07-10T00:30:00+00:00,2025-07-09T19:10:00+00:00
+Japan Airlines,Haneda Airport,Heathrow,2025-07-10T00:20:00+00:00,2025-07-10T06:25:00+00:00
+British Airways,Haneda Airport,Heathrow,2025-07-10T00:20:00+00:00,2025-07-10T06:25:00+00:00
+Iberia,Haneda Airport,Heathrow,2025-07-10T00:20:00+00:00,2025-07-10T06:25:00+00:00
+Thai Airways International,Haneda Airport,Suvarnabhumi International,2025-07-10T00:20:00+00:00,2025-07-10T04:50:00+00:00
+ANA,Haneda Airport,Suvarnabhumi International,2025-07-10T00:20:00+00:00,2025-07-10T04:50:00+00:00
+ANA,Haneda Airport,Suvarnabhumi International,2025-07-10T00:05:00+00:00,2025-07-10T04:35:00+00:00
+China Postal Airlines,Shenyang,Nanjing Lukou International Airport,2025-07-10T00:35:00+00:00,2025-07-10T02:50:00+00:00
+SF Airlines,Shenyang,Hangzhou,2025-07-10T00:05:00+00:00,2025-07-10T02:20:00+00:00
+Air New Zealand,Christchurch International,Hawkes Bay,2025-07-10T06:55:00+00:00,2025-07-10T08:30:00+00:00
+Air New Zealand,Christchurch International,Auckland International,2025-07-10T06:50:00+00:00,2025-07-10T08:15:00+00:00
+Turkish Airlines,Christchurch International,Auckland International,2025-07-10T06:50:00+00:00,2025-07-10T08:15:00+00:00
+Singapore Airlines,Christchurch International,Auckland International,2025-07-10T06:50:00+00:00,2025-07-10T08:15:00+00:00
+Asiana Airlines,Christchurch International,Auckland International,2025-07-10T06:50:00+00:00,2025-07-10T08:15:00+00:00
+ANA,Christchurch International,Auckland International,2025-07-10T06:50:00+00:00,2025-07-10T08:15:00+00:00
+Etihad Airways,Christchurch International,Auckland International,2025-07-10T06:50:00+00:00,2025-07-10T08:15:00+00:00
+EVA Air,Christchurch International,Auckland International,2025-07-10T06:50:00+00:00,2025-07-10T08:15:00+00:00
+Air New Zealand,Christchurch International,Nelson,2025-07-10T06:45:00+00:00,2025-07-10T07:40:00+00:00
+Jetstar,Christchurch International,Wellington International,2025-07-10T06:45:00+00:00,2025-07-10T07:35:00+00:00
+Qantas,Christchurch International,Wellington International,2025-07-10T06:45:00+00:00,2025-07-10T07:35:00+00:00
+Fiji Airways,Christchurch International,Wellington International,2025-07-10T06:45:00+00:00,2025-07-10T07:35:00+00:00
+Air New Zealand,Christchurch International,Sydney Kingsford Smith Airport,2025-07-10T06:35:00+00:00,2025-07-10T08:15:00+00:00
+Virgin Australia,Christchurch International,Sydney Kingsford Smith Airport,2025-07-10T06:35:00+00:00,2025-07-10T08:15:00+00:00
+United Airlines,Christchurch International,Sydney Kingsford Smith Airport,2025-07-10T06:35:00+00:00,2025-07-10T08:15:00+00:00
